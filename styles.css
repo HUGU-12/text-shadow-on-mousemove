@@ -1,0 +1,10 @@
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body h1{
+  font-family: sans-serif;
+  /* text-shadow: 5px 5px 0 rgba(0, 0, 0, 0.422); */
+}
